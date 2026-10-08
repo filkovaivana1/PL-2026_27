@@ -1,2 +1,0 @@
-year = 2008, days = 366
-still looping after 1000000 rounds

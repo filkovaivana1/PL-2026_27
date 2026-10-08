@@ -1,3 +1,0 @@
-3: [Ana, Marko, Elena]
-2: [Ivan, Sara]
-1: [Petar]
