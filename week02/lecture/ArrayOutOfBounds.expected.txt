@@ -1,0 +1,5 @@
+12
+0
+0
+7
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
