@@ -1,0 +1,3 @@
+printed;Emma;Jane Austen;Classic;1815;474
+ebook;Dune;Frank Herbert;Science fiction;1965;1.4
+audio;Persuasion;Jane Austen;Classic;1817;510
